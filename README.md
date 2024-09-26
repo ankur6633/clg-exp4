@@ -1,4 +1,4 @@
-##Project Name: Full-Stack Notes Sharing Application
+##Project Name: Full-Stack Notes Sharing Application##
 ##Overview
 This project is a Full-Stack Notes Sharing Application built using React.js for the frontend, Node.js (Express) for the backend, and MongoDB as the database. The application allows users to share notes, create accounts, and manage their content efficiently.
 
